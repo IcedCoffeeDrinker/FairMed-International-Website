@@ -1,0 +1,25 @@
+{
+  "name": "fairmed-website",
+  "version": "1.0.0",
+  "description": "FairMed International - Medical Equipment. Fair Prices.",
+  "type": "module",
+  "scripts": {
+    "dev": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "lint": "astro check"
+  },
+  "keywords": [
+    "medical",
+    "equipment",
+    "nigeria",
+    "healthcare"
+  ],
+  "author": "FairMed International",
+  "license": "ISC",
+  "dependencies": {
+    "@astrojs/tailwind": "^5.1.5",
+    "astro": "^6.3.8",
+    "tailwindcss": "^3.4.19"
+  }
+}
